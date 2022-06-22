@@ -1,0 +1,31 @@
+//Cannons
+/loadmod Cannon/Cannon Tools
+
+/loadwep Cannon/Bullet Cannon
+/loadwep Cannon/Super Bullet Cannon
+/loadwep Cannon/Ultra Bullet Cannon
+/loadwep Cannon/Legend Bullet Cannon
+/loadwep Cannon/Ninja Bullet Cannon
+
+//Misc
+/loadmod Misc/Misc Tools
+
+/loadwep Misc/Missile Launcher
+/loadwep Misc/Ultra Missile Launcher
+/loadwep Misc/Infiltrator
+/loadwep Misc/Ultra Infiltrator
+/loadwep Misc/Super Infiltrator
+/loadwep Misc/Legend Missile Launcher
+/loadwep Misc/Legend Infiltrator
+/loadwep Misc/Astral Infiltrator
+
+/loadwep Misc/Basic Project
+/loadwep Misc/Science Project
+/loadwep Misc/Advanced Project
+
+/loadwep Misc/Ninja Sword
+
+//loadwep Misc/Ultra Seeker Pistol
+//loadwep Misc/Ultra Seeker Shotgun
+
+//loadwep Misc/Lightning Zapper
